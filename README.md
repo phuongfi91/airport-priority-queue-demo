@@ -10,5 +10,5 @@ airport-priority-queue-demo
 + XNA Redistributable 4.0 (http://www.microsoft.com/en-us/download/details.aspx?id=27598)
 + DirectX End-User Runtimes (http://www.microsoft.com/en-us/download/details.aspx?id=8109)
 
-####Gameplay:
+####Gameplay (Youtube):
 [![Airport-Priority-Queue-Demo](http://img.youtube.com/vi/RpVwzD7DHxg/0.jpg)](https://www.youtube.com/watch?v=RpVwzD7DHxg)
