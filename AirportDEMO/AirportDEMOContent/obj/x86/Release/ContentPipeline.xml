@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\Airport_Terminal.png</Source>
+      <Name>Textures\Airport_Terminal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\Airport_Terminal.xnb</Output>
+      <Time>2011-11-27T21:48:52.0225045+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP1\0.PNG</Source>
+      <Name>Textures\VIP1\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP1\0.xnb</Output>
+      <Time>2011-11-28T09:24:18.5528639+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP1\1.PNG</Source>
+      <Name>Textures\VIP1\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP1\1.xnb</Output>
+      <Time>2011-11-28T09:07:00.8585112+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP1\2.PNG</Source>
+      <Name>Textures\VIP1\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP1\2.xnb</Output>
+      <Time>2011-11-28T09:24:32.5326635+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP1\3.PNG</Source>
+      <Name>Textures\VIP1\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP1\3.xnb</Output>
+      <Time>2011-11-28T09:24:03.395997+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP1\4.PNG</Source>
+      <Name>Textures\VIP1\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP1\4.xnb</Output>
+      <Time>2011-11-28T09:23:37.188498+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP1\5.PNG</Source>
+      <Name>Textures\VIP1\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP1\5.xnb</Output>
+      <Time>2011-11-28T09:22:58.0622601+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP1\6.PNG</Source>
+      <Name>Textures\VIP1\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP1\6.xnb</Output>
+      <Time>2011-11-28T09:23:13.4261389+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP1\7.PNG</Source>
+      <Name>Textures\VIP1\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP1\7.xnb</Output>
+      <Time>2011-11-28T09:23:51.6843271+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CounterBoard.png</Source>
+      <Name>Textures\CounterBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\CounterBoard.xnb</Output>
+      <Time>2011-11-28T17:57:41.3620252+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Airport_Terminal_Boards.png</Source>
+      <Name>Textures\Airport_Terminal_Boards</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\Airport_Terminal_Boards.xnb</Output>
+      <Time>2011-11-28T19:14:03.5567994+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP2\0.png</Source>
+      <Name>Textures\VIP2\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP2\0.xnb</Output>
+      <Time>2011-11-28T19:42:13.9210376+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP2\1.png</Source>
+      <Name>Textures\VIP2\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP2\1.xnb</Output>
+      <Time>2011-11-28T19:42:14.7220834+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP2\2.png</Source>
+      <Name>Textures\VIP2\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP2\2.xnb</Output>
+      <Time>2011-11-28T19:42:15.3151174+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP2\3.png</Source>
+      <Name>Textures\VIP2\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP2\3.xnb</Output>
+      <Time>2011-11-28T19:42:15.8601485+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP2\4.png</Source>
+      <Name>Textures\VIP2\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP2\4.xnb</Output>
+      <Time>2011-11-28T19:42:16.445182+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP2\5.png</Source>
+      <Name>Textures\VIP2\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP2\5.xnb</Output>
+      <Time>2011-11-28T19:42:17.0542168+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP2\6.png</Source>
+      <Name>Textures\VIP2\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP2\6.xnb</Output>
+      <Time>2011-11-28T19:42:17.6232494+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\VIP2\7.png</Source>
+      <Name>Textures\VIP2\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\VIP2\7.xnb</Output>
+      <Time>2011-11-28T19:42:18.1172776+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N1\0.png</Source>
+      <Name>Textures\N1\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N1\0.xnb</Output>
+      <Time>2011-11-28T19:47:28.5084622+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N1\1.png</Source>
+      <Name>Textures\N1\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N1\1.xnb</Output>
+      <Time>2011-11-28T19:47:29.3045078+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N1\2.png</Source>
+      <Name>Textures\N1\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N1\2.xnb</Output>
+      <Time>2011-11-28T19:47:30.1255547+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N1\3.png</Source>
+      <Name>Textures\N1\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N1\3.xnb</Output>
+      <Time>2011-11-28T19:47:30.9536021+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N1\4.png</Source>
+      <Name>Textures\N1\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N1\4.xnb</Output>
+      <Time>2011-11-28T19:47:31.7446473+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N1\5.png</Source>
+      <Name>Textures\N1\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N1\5.xnb</Output>
+      <Time>2011-11-28T19:47:32.5626941+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N1\6.png</Source>
+      <Name>Textures\N1\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N1\6.xnb</Output>
+      <Time>2011-11-28T19:47:33.4047423+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N1\7.png</Source>
+      <Name>Textures\N1\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N1\7.xnb</Output>
+      <Time>2011-11-28T19:47:34.1667859+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2a\0.png</Source>
+      <Name>Textures\N2a\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2a\0.xnb</Output>
+      <Time>2011-11-28T19:47:53.3768578+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2a\1.png</Source>
+      <Name>Textures\N2a\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2a\1.xnb</Output>
+      <Time>2011-11-28T19:47:54.2029051+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2a\2.png</Source>
+      <Name>Textures\N2a\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2a\2.xnb</Output>
+      <Time>2011-11-28T19:47:54.9939503+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2a\3.png</Source>
+      <Name>Textures\N2a\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2a\3.xnb</Output>
+      <Time>2011-11-28T19:47:55.7699947+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2a\4.png</Source>
+      <Name>Textures\N2a\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2a\4.xnb</Output>
+      <Time>2011-11-28T19:47:56.5510394+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2a\5.png</Source>
+      <Name>Textures\N2a\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2a\5.xnb</Output>
+      <Time>2011-11-28T19:47:57.3640859+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2a\6.png</Source>
+      <Name>Textures\N2a\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2a\6.xnb</Output>
+      <Time>2011-11-28T19:47:58.1461306+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2a\7.png</Source>
+      <Name>Textures\N2a\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2a\7.xnb</Output>
+      <Time>2011-11-28T19:47:58.9011738+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2b\0.png</Source>
+      <Name>Textures\N2b\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2b\0.xnb</Output>
+      <Time>2011-11-28T19:48:08.387708+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2b\1.png</Source>
+      <Name>Textures\N2b\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2b\1.xnb</Output>
+      <Time>2011-11-28T19:48:09.1777532+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2b\2.png</Source>
+      <Name>Textures\N2b\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2b\2.xnb</Output>
+      <Time>2011-11-28T19:48:09.9597979+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2b\3.png</Source>
+      <Name>Textures\N2b\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2b\3.xnb</Output>
+      <Time>2011-11-28T19:48:10.6858395+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2b\4.png</Source>
+      <Name>Textures\N2b\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2b\4.xnb</Output>
+      <Time>2011-11-28T19:48:11.4448829+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2b\5.png</Source>
+      <Name>Textures\N2b\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2b\5.xnb</Output>
+      <Time>2011-11-28T19:48:12.2449287+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2b\6.png</Source>
+      <Name>Textures\N2b\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2b\6.xnb</Output>
+      <Time>2011-11-28T19:48:13.0159728+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\N2b\7.png</Source>
+      <Name>Textures\N2b\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\N2b\7.xnb</Output>
+      <Time>2011-11-28T19:48:13.7680158+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\R\0.PNG</Source>
+      <Name>Textures\R\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\R\0.xnb</Output>
+      <Time>2011-11-29T21:06:31.2688894+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\R\1.PNG</Source>
+      <Name>Textures\R\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\R\1.xnb</Output>
+      <Time>2011-11-29T21:15:40.9833312+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\R\2.PNG</Source>
+      <Name>Textures\R\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\R\2.xnb</Output>
+      <Time>2011-11-29T21:28:20.026746+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LegendBoard.png</Source>
+      <Name>Textures\LegendBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Textures\LegendBoard.xnb</Output>
+      <Time>2011-11-29T22:15:58.1333716+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\HUDFont.spritefont</Source>
+      <Name>Fonts\HUDFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\Fonts\HUDFont.xnb</Output>
+      <Time>2011-11-28T18:14:53.7629172+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMOContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMOContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Users\Administrator\Documents\Visual Studio 2010\Projects\1. Working\AirportDEMO\AirportDEMO\AirportDEMO\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>D:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-19T11:39:00.8361144+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
